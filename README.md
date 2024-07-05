@@ -9,5 +9,10 @@ Currently, two official plugins are available:
 
 Please Install before Running Application :-
 npm i
+
 npm i bootstrap bootstrap-icons lodash lorem-ipsum react-redux
+
 npm i react-router-dom string-similarity-js sweetalert2
+
+For Run Application :-
+npm run dev

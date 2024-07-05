@@ -7,12 +7,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Please Install before Running Application :-
-`npm i`
+* Please Install before Running Application :-
+  `npm i`
 
 `npm i bootstrap bootstrap-icons lodash lorem-ipsum react-redux`
 
 `npm i react-router-dom string-similarity-js sweetalert2`
 
-For Run Application :-
-`npm run dev`
+- To Run Application :-
+  `npm run dev`

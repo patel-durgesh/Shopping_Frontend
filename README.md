@@ -8,11 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Please Install before Running Application :-
-npm i
+`npm i`
 
-npm i bootstrap bootstrap-icons lodash lorem-ipsum react-redux
+`npm i bootstrap bootstrap-icons lodash lorem-ipsum react-redux`
 
-npm i react-router-dom string-similarity-js sweetalert2
+`npm i react-router-dom string-similarity-js sweetalert2`
 
 For Run Application :-
-npm run dev
+`npm run dev`
